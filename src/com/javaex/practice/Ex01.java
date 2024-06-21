@@ -7,8 +7,8 @@ public class Ex01 {
 		 * [Ex01.java] 다음중 기본 자료형중 정수형자료형이 아닌 것은?
 		 *  int
 		 *  float
-		 *  byte
-		 *  long
+		 *  byte 
+		 *  long  
 		 * A) float
 		 */
 	}
